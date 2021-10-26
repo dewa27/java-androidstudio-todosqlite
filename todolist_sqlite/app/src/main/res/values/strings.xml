@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">todolist_sqlite</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks</string>
+</resources>
